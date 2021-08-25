@@ -1,6 +1,6 @@
 # APP
 
-Applicazioni sviluppate nell'ambito dei percorsi di co-progettazione del progetto Space13 InnovationLab di Legnago.
+Applicazioni sviluppate con gli studenti ed i docenti dell'Istituto di Istruzione Superiore "G. Silva - M. Ricci" nell'ambito dei percorsi di co-progettazione del progetto Space13 InnovationLab di Legnago.
 
 **APP LIBRI DI TESTO**
 
