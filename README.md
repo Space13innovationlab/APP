@@ -27,6 +27,7 @@ In questo caso si tratta di una Web App Responsive, interamente sviluppata con c
 L’applicazione vuole rendere disponibili le informazioni relative alle piste ciclabili del Veneto.
 
 Il link per il codice dell’applicazione è: <https://replit.com/@Yoogoh/BikeView#index.html>
+Il link alla webapp è: <https://bikeview--yoogoh.repl.co/>
 
 **APP SKIMAP**
 
@@ -34,4 +35,4 @@ E’ una Web App Responsive che fornisce informazioni su piste da sci e scuole d
 
 La Web App (anche in questo caso interamente sviluppata con codice nei linguaggi HTML e PHP) consente, fin dalla pagina iniziale, di scegliere tra PISTE e SCUOLE.
 
-L’app è visualizzabile al link: <http://skimap.herokuapp.com/>
+L’app è visualizzabile al link: <https://skimap.giuliopime.dev>
